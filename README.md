@@ -1,5 +1,9 @@
 # React Google Maps demo
 
+## Tutorial Followed: https://www.youtube.com/watch?v=WZcxJGmLbSo
+
+## Project Steps
+
 1. Save Google maps API key in .env.local
 2. Enable 2 APIs:
    1. Maps Javascript API
